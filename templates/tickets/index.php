@@ -8,7 +8,7 @@ ob_start();
     </div>
 
     <div class="tickets-grid">
-        <h3>Tickets (<?= count($tickets) ?>)</h3>
+        <h3>Tickets (<?= is_array($tickets) ? count($tickets) : 0 ?>)</h3>
         
         <?php if (empty($tickets)): ?>
             <div class="empty-state">

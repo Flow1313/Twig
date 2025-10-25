@@ -33,7 +33,7 @@
                 </div>
             <?php endif; ?>
 
-            <?php include $content; ?>
+            <?php echo $content; ?>
         </div>
     </main>
 

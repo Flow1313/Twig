@@ -3,11 +3,11 @@
         'name' => 'yourname/twig-ticket-app',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'e5a6afd7381368f8cfa396d1290a8149f054c40a',
+        'reference' => '7cd67b6ba67a97d054ac52ee327ec16145640607',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'dev' => true,
+        'dev' => false,
     ),
     'versions' => array(
         'symfony/deprecation-contracts' => array(
@@ -64,15 +64,6 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'symfony/var-dumper' => array(
-            'pretty_version' => 'v6.4.26',
-            'version' => '6.4.26.0',
-            'reference' => 'cfae1497a2f1eaad78dbc0590311c599c7178d4a',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../symfony/var-dumper',
-            'aliases' => array(),
-            'dev_requirement' => true,
-        ),
         'twig/twig' => array(
             'pretty_version' => 'v3.21.1',
             'version' => '3.21.1.0',
@@ -85,7 +76,7 @@
         'yourname/twig-ticket-app' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'e5a6afd7381368f8cfa396d1290a8149f054c40a',
+            'reference' => '7cd67b6ba67a97d054ac52ee327ec16145640607',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

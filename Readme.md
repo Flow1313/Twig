@@ -79,7 +79,7 @@ Copy code
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/twig-ticket-app.git
+git clone https://github.com/Flow1313/twig-ticket-app.git
 cd twig-ticket-app
 Install dependencies with Composer
 

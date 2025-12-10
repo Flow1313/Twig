@@ -119,11 +119,3 @@ Open a Pull Request
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-yaml
-Copy code
-
----
-
-If you want, I can also **add a “Preview Screenshot” section** with instructions to include images/screenshots in the README — it makes your GitHub repo look very professional.  
-
-Do you want me to do that?
